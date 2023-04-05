@@ -5,11 +5,5 @@ I'm Bugra from Istanbul. I am a cyber security engineer at Crypttech. I develop 
 ## Skills and Experience
 * 💻 Python,C,C++,JS
 
-
-#<img src="" width="256" />
-
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgrsmn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bgrsmn/)  
 
