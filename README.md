@@ -7,5 +7,5 @@ I'm Bugra from Istanbul. I am a cyber security engineer at Crypttech. I develop 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgrsmn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bgrsmn/) [<img src='https://tryhackme-badges.s3.amazonaws.com/mrbugx.png' alt='tryhackme' height='30'>](https://tryhackme.com/p/mrbugx)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgrsmn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bgrsmn/) [<img src='https://tryhackme-badges.s3.amazonaws.com/mrbugx.png' alt='tryhackme' height='40'>](https://tryhackme.com/p/mrbugx)  
 
